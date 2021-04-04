@@ -5,6 +5,4 @@ To download the worksheets:
 
 Click on the .ipynb file -> Right click "Raw" -> Click "Save link as...".
 
-Please save in a folder that you will be able to easily access.
-
-If you have any issues, please ask a question during the workshop or send me an email here: jimmy.danckert@mbsi.org.au
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdanckert/MBSI_coding/HEAD)
